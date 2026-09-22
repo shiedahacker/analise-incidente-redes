@@ -11,7 +11,7 @@ O cenário baseia-se numa empresa de multimédia cujas operações foram paralis
 - Propor controlos de segurança e métodos de deteção proativos (IDS/IPS, MFA, Monitorização de Logs).
 
 ## Documentação Técnica
-- [Relatório de Análise de Incidente (NIST CSF)]((https://github.com/shiedahacker/analise-incidente-redes/blob/main/An%C3%A1lise%20de%20relat%C3%B3rio%20de%20incidente.pdf))
+- [Relatório de Análise de Incidente (NIST CSF)](Análise-de-relatório-de-incidente.pdf)
 - [Avaliação de Risco e Hardening de Rede](Relatório-de-avaliação-de-risco-de-segurança.pdf)
 
 ## Competências Demonstradas
